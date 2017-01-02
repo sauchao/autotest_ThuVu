@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression" verbose="5">
+	<groups>
+			<run>
+				<include name="Initialization" />
+				<include name="Regression" />
+			</run>
+	</groups>
+	<test name="Exercise">
+		<classes>
+ 			<class name="tests.Account_001" />
+ 			<class name="tests.Password_001" />
+ 		</classes>
+ 	</test>
+</suite>

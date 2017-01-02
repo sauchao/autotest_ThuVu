@@ -1,0 +1,21 @@
+Part B of helloPay QA auto exercise's answer:
+
+What is the benefit of automation test and why? Please provide some of your examples to explain that
+Some of the benefits of automation test are:
+- Running tests 24/7: can be run over night, weekend, holiday, etc.
+- Fewer human resources for manual testing
+- Reusability: scripts are reusable over browsers, Operating Systems, builds, etc.
+- Simultaneity: can run test on multiple devices, browsers, OS, etc. simultaneously
+- Volume: can be run for a large number of test cases/ users/ devices while manually would be impossible
+- Reliability: human errors may happens when running boring repetitive standardized tests but not happens with automated testing
+
+What makes a good automation test tool, and what is a bad one? Why?
+This depends on the situation of the team whether an automation test tool is good or bad and suitable to the team or not. 
+Some considerable criteria such as: 
+- Whether we have skilled resource to allocate for automation tasks or not? 
+- Whether we have enough budget? 
+- What are our testing needs? Is it suitable for the project environment and technology we are using (such as web app, mobile app, etc.)?
+- Is it support for all of our expected testing types (Unit, functional, regression etc.)? 
+- Does it integrate well with our other testing tools like project planning and test management tools?
+- etc.
+Then we may consider some other criteria such as: easy/simple interface to create and maintain test scripts, powerful reporting with graphical interface, customer support ability, etc. 

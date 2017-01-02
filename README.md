@@ -1,2 +1,5 @@
-# autotest_ThuVu
-This is the answer for helloPay auto test
+Instruction to run test:
+- Install Eclipse
+- Install TestNG
+- Import project
+- Run test
